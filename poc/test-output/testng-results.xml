@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33096" started-at="2018-12-20T00:47:45Z" finished-at="2018-12-20T00:48:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33096" started-at="2018-12-20T00:47:45Z" finished-at="2018-12-20T00:48:18Z">
+      <class name="tests.calculator.ValidationTest">
+        <test-method status="PASS" signature="setAppium()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="setAppium" is-config="true" duration-ms="20970" started-at="2018-12-20T06:17:24Z" finished-at="2018-12-20T06:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAppium -->
+        <test-method status="PASS" signature="enterCredentials()[pri:1, instance:tests.calculator.ValidationTest@56235b8e]" name="enterCredentials" duration-ms="2139" started-at="2018-12-20T06:17:45Z" finished-at="2018-12-20T06:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials -->
+        <test-method status="PASS" signature="resetScreenshotCounter()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="resetScreenshotCounter" is-config="true" duration-ms="1001" started-at="2018-12-20T06:17:47Z" finished-at="2018-12-20T06:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetScreenshotCounter -->
+        <test-method status="PASS" signature="login()[pri:2, instance:tests.calculator.ValidationTest@56235b8e]" name="login" duration-ms="3983" started-at="2018-12-20T06:17:48Z" finished-at="2018-12-20T06:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="resetScreenshotCounter()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="resetScreenshotCounter" is-config="true" duration-ms="1002" started-at="2018-12-20T06:17:52Z" finished-at="2018-12-20T06:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetScreenshotCounter -->
+        <test-method status="PASS" signature="componentTesting()[pri:3, instance:tests.calculator.ValidationTest@56235b8e]" name="componentTesting" duration-ms="10693" started-at="2018-12-20T06:17:53Z" finished-at="2018-12-20T06:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- componentTesting -->
+        <test-method status="PASS" signature="resetScreenshotCounter()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="resetScreenshotCounter" is-config="true" duration-ms="1000" started-at="2018-12-20T06:18:03Z" finished-at="2018-12-20T06:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetScreenshotCounter -->
+        <test-method status="PASS" signature="makePayment()[pri:4, instance:tests.calculator.ValidationTest@56235b8e]" name="makePayment" duration-ms="12248" started-at="2018-12-20T06:18:04Z" finished-at="2018-12-20T06:18:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makePayment -->
+        <test-method status="PASS" signature="resetScreenshotCounter()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="resetScreenshotCounter" is-config="true" duration-ms="1002" started-at="2018-12-20T06:18:17Z" finished-at="2018-12-20T06:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetScreenshotCounter -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.calculator.ValidationTest@56235b8e]" name="tearDown" is-config="true" duration-ms="936" started-at="2018-12-20T06:18:18Z" finished-at="2018-12-20T06:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.calculator.ValidationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
